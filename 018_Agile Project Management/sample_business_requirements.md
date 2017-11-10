@@ -2,10 +2,11 @@
 
 ## Executive Summary
 
-*Your executive summary should be pretty brief, under 3 paragraphs and should provide a concise summary of the purpose and contents of the rest of the document.  Explain to the reader what they will get from this document.*
+According to a recent article in the U.S. News and World Report (https://www.usnews.com/info/blogs/press-room/articles/2016-05-17/the-us-news-raytheon-stem-index-shows-america-will-have-to-depend-on-foreign-workers-to-fill-stem-jobs), there were over 230,000 new Science, Technology, Engineering and Mathematics (STEM) jobs created in the United States between 2014-2015 compared to almost 39,000 new graduates - a 13% difference.  If current trends continue, there will be nearly 1.1 million unfilled jobs by 2024 (http://www.talentwave.com/the-shortage-of-stem-workers-in-the-us/).  Our colleges and universities are not putting out enough graduates.  Long-term the US The interest in STEM careers needs to be addressed with 6-12th graders.  However, that will   in   . number of STEM workers born in the The US Department of Labor has This document describes the STEM Career Foundation and Development Network.  It is designed to give training abexpereince  a training  Training application.  It will contain high level functional and non-functional requirements, including architecture and performance expectations.  
 
 ## Business Objectives
 
+The objectives of the project are to create a platform for testing, training and continued development of software engineers and developers.  One of the primary goals is to have a self-sustaining site where content cobtributions are made by a community of developers of all levels.  Content is monitored and approved for both appropriate content and language as well as selected experts.  Skill levels are tested through exams and coding exercises.  The intent is to test users on the full life-cycle development, including requirements definition, market analysis, project planning and software estimation, testing and bug tracking.  Existing systems and tools will be used whenever possible based on established criteria. the number of  and Almost any software developer is by  that will be independent of the system they are . 
 *Business objectives should offer the details for why the project is important.  Outline the goals of the project int he sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
 
 ## Background
